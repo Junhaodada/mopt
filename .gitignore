@@ -3,3 +3,4 @@ build/*
 .vscode/*
 cmake-build-debug/*
 third_party/*
+cmake/*
